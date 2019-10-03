@@ -1,0 +1,2 @@
+# Text-Formatting
+In this project we are going to journey back to the 1970s, and implement a simple text formatting tool based entirely on fixed-width terminal fonts and character-based output.3 The formatting “commands” will be indicated by input lines that start with a period, “.”, with the command indicated by the letter in the next character position. For example, the characters “.p” in the first two positions of a line are (in this simple language) the signal to start a new paragraph in the output.
